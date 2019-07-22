@@ -1,0 +1,6 @@
+framework module Pods_LYSCommonHUDDemoUITests {
+  umbrella header "Pods-LYSCommonHUDDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
